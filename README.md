@@ -1,4 +1,6 @@
-playground
+JS Playground
 ==========
 
-my code playground
+JavaScript Playground.
+
+Includes learnyounode, stream-adventure es6 examples.
